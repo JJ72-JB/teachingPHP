@@ -15,7 +15,7 @@
     <center>
         <p class="description">Ingresa tu nombre:</p>
         <input type="text" placeholder="Escribe tu nombre"/>
-        <button type="submit" class="btn">Guardar</button>
+        <button type="submit" class="btn"><span>Guardar</span></button>
     </center>
 </body>
 </html>
